@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssurAmiBackEnd", "AssurAmiBackEnd\AssurAmiBackEnd.csproj", "{3853DB28-AC1D-44C1-8979-0CB06164DE1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3853DB28-AC1D-44C1-8979-0CB06164DE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3853DB28-AC1D-44C1-8979-0CB06164DE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3853DB28-AC1D-44C1-8979-0CB06164DE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3853DB28-AC1D-44C1-8979-0CB06164DE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D998F8B-60E7-4F6F-AAC1-302E26E23F64}
+	EndGlobalSection
+EndGlobal
